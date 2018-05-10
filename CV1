@@ -5,17 +5,25 @@ Kirill Kuznetsov
 
 Technology stack:
 
-.NET : C#, BotFramework; JS, Node.js, Java, Ruby, MongoDB, MySQL, PHP, MS Cognitive Sevices
+C#, Go, BotFramework, JS, Node.js, Java, Ruby, MongoDB, MySQL, PHP, MS Cognitive Sevices
 
-Blockchain: Ethereum platform (Solidity), Truffle, WEB3, JS, Waves platform
+Blockchain: Ethereum platform (Solidity), Truffle, WEB3, JS, Waves platform, BitcoinJS, BitcoinCashJS
 
 WEB: Frontend (JS + HTML + CSS): Boostrap; AJAX
 
-Microsoft Imagine Cup Hackathon - winners 
+Microsoft Imagine Cup Hackathon - winners (1-st place. Nomination: Big Data) 
 
 Binary District Blockchain Hackathon - winners (EncryptoTel nomination)
 
 Blockchain Founder Hackathon - winners (3-d place. Project: Dispute settlement platform)
+
+Blockchain Founder Hackathon - winners (2-d place. Project: Charity)
+
+Unblock Hackathon (Digital October) - winners (1-s plase. Project: Voting. Waves Blockchain).
+
+All-Russian final of the Imagine Cup - winners (3-d place. Project: Food Marketplace, Charity, CriptoWallet, CourseBot)
+
+IBM Hackathon - winners (3-d place. Project: Charity on Hyperledger).
 
 ---------------------------------------------------------------------------------------------
 Русская версия 
@@ -24,9 +32,9 @@ Blockchain Founder Hackathon - winners (3-d place. Project: Dispute settlement p
 
 Стак технологий: 
 
-.NET : C#, BotFramework; JS, Node.js, Java, Ruby, MongoDB, MySQL, PHP, MS Cognitive Sevices
+C#, Go, BotFramework; JS, Node.js, Java, Ruby, MongoDB, MySQL, PHP, MS Cognitive Sevices
 
-Blockchain: Ethereum platform (Solidity), Truffle, WEB3, JS, Waves platform
+Blockchain: Ethereum platform (Solidity), Truffle, WEB3, JS, Waves platform, BitcoinJS, BitcoinCashJS
 
 WEB: Frontend (JS + HTML + CSS): Boostrap; AJAX 
 
@@ -34,8 +42,14 @@ WEB: Frontend (JS + HTML + CSS): Boostrap; AJAX
 
 Призовое место на хакатоне Binary District по Блокчейн в номинации EncryptoTel
 
-Третье место на Blockchain Founder Hackathon в МГУ.
+Третье место Blockchain Founder Hackathon в МГУ.
 
-Активно участвую в хакатонах по технологиям Блокчейн и не только
+Второе место Blockchain Founder Hackathon (Красный Октябрь).
+
+Первое место Unblock Hackathon (Digital October).
+
+Третье место Всероссийского финала конкурса Imagine Cup.
+
+Третье место IBM Hackathon (Hyperledger).
 
 Веду мастер-классы в нескольких вузах Москвы: ВШЭ (ФКН), МГТУ им. Баумана, МГУ
